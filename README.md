@@ -1,14 +1,18 @@
 # MostUsedTools
 ## Windows
 #### SSH TOOLS
-mobaxterm [Download](https://mobaxterm.mobatek.net/download-home-edition.html)
-PuTTY 
+    mobaxterm [Download](https://mobaxterm.mobatek.net/download-home-edition.html)
+    PuTTY
+    
 #### FILE TRANSFER
-WinSCP
+    WinSCP
+  
 #### DATEBASE QUERY
-Navicat
+    Navicat
+  
 #### ENGLISH DICTIONARY
-GoldenDict
+    GoldenDict
+    
 #### workflow/xmind
-Dot
-Docear
+    Dot
+    Docear
