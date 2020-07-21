@@ -30,5 +30,6 @@
     使用：pip install -r requirements.txt
 
 #### Download videos from YouTube
-    python -m pip install --upgrade youtube_dl
-
+    1. python -m pip install --upgrade youtube_dl
+    2. Chrome plug-in MeddleMonkey
+    
