@@ -1,8 +1,8 @@
 # MostUsedTools
 ## Windows
 #### SSH TOOLS
-    mobaxterm [Download](https://mobaxterm.mobatek.net/download-home-edition.html)
-    PuTTY
+  - [mobaxterm](https://mobaxterm.mobatek.net/download-home-edition.html)
+  - PuTTY
     
 #### FILE TRANSFER
     WinSCP
@@ -32,4 +32,9 @@
 #### Download videos from YouTube
     1. python -m pip install --upgrade youtube_dl
     2. Chrome plug-in MeddleMonkey
+    
+#### RegExr yyyy-mm-dd
+```sh
+((((19|20)\d{2})-(0?(1|[3-9])|1[012])-(0?[1-9]|[12]\d|30))|(((19|20)\d{2})-(0?[13578]|1[02])-31)|(((19|20)\d{2})-0?2-(0?[1-9]|1\d|2[0-8]))|((((19|20)([13579][26]|[2468][048]|0[48]))|(2000))-0?2-29))$
+```sh
     
