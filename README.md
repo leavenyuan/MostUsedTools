@@ -41,3 +41,6 @@ yyyy-mm-dd
 ```
 #### Translate Janpanese
   [秒翻](http://personal.miaotranslation.com/)
+  
+#### Testing Tools Source
+  [Kali Tools](https://tools.kali.org/tools-listing)
