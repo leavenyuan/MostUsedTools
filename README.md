@@ -44,3 +44,8 @@ yyyy-mm-dd
   
 #### Testing Tools Source
   [Kali Tools](https://tools.kali.org/tools-listing)
+
+#### Tech Articles
+  [why-all-my-servers-have-an-8gb-empty-file](https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/)
+  [why_oo_sucks](http://harmful.cat-v.org/software/OO_programming/why_oo_sucks)
+  [科技爱好者周刊](http://www.ruanyifeng.com/blog/)
