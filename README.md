@@ -49,3 +49,6 @@ yyyy-mm-dd
   - [why-all-my-servers-have-an-8gb-empty-file](https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/)
   - [why_oo_sucks](http://harmful.cat-v.org/software/OO_programming/why_oo_sucks)
   - [科技爱好者周刊](http://www.ruanyifeng.com/blog/)
+
+#### 音视频
+  - [FFmpeg Bug Tracker and Wiki](https://trac.ffmpeg.org/)
